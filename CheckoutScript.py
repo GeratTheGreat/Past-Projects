@@ -12,7 +12,7 @@ import time
 dir = os.path.dirname(__file__)
 chrome_driver_path = "/Users/MatthewGerat/Desktop/everything/bot/chromedriver"
 
-#This was my first project I strayed away from the class curriculum and wanted to try on my own. I always saw people
+#This was my first project that I strayed away from the class curriculum and wanted to try on my own. I always saw people
 #creating and selling bots or scripts to purchase clothing/shoes automatically. I wanted to make one for a brand I
 #often would purchase. I had no prior knowledge of selenium until I began researching some ways to control web pages.
 #After I found selenium I began to play around and see what I could come up with. I was able to inspect element
